@@ -1,2 +1,2 @@
-# vgg_tensorflow
+# VGG TensorFlow
 VGG implementation withTensorFlow.
